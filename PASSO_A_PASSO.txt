@@ -1,0 +1,8 @@
+PROJETO GUIADO - MÓDULO 2
+
+1º - cria-se uma pasta no Visual Studio Code, contendo um arquivo "index.html"
+2º - crie um novo repositório no GitHub [vazio:- sem os arquivos README.MD e outros que o github disponibiliza]
+3º - após criar o arquivo "index.html" no Visual Studio Code, ativamos o Terminal e digitamos o comando "git init" para criar uma pasta oculta ".git" dentro do diretório local onde estamos trabalhando.
+
+
+

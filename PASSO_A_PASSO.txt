@@ -5,4 +5,7 @@ PROJETO GUIADO - MÓDULO 2
 3º - após criar o arquivo "index.html" no Visual Studio Code, ativamos o Terminal e digitamos o comando "git init" para criar uma pasta oculta ".git" dentro do diretório local onde estamos trabalhando.
 
 
+16:30 08/11/2021
+Acréscimo dos arquivos list.css e form.css na pasta "css". Nova versão do logo_newtab.png na pasta "img". Finalizado "index.html" e "form.html"
+
 

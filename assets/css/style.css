@@ -1,11 +1,14 @@
 body{
     margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 .cabecalho {
     background: linear-gradient(359deg, #0043ff, #cbccdb);
     padding: 15px;
 }
-
+ 
 .menu{
      display: flex;
      justify-content: center;
@@ -16,7 +19,8 @@ body{
     font-weight: bold;
     color: orange;
     margin-right: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15px;
     border: 1px solid black;
-    padding: 7px;
-    margin-top: 15px;
+    padding: 5px;
+    margin: 10px 10px;
+}
